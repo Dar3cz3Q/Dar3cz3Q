@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[My University Repositories](https://github.com/Dar3cz3Q-Univeristy)
+
 <!--
 **Dar3cz3Q/Dar3cz3Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
